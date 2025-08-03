@@ -1,0 +1,7 @@
+{
+  "name": "Dog Breed Scanner",
+  "description": "An application that uses AI to identify a dog's breed from a photo. Users can take a picture or upload one to get detailed information about the breed, including temperament, origin, and interesting facts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
